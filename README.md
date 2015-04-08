@@ -48,19 +48,19 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 In this general plan, and in the deliverables below.
 
 ### First Milestone (04-13)
-What exactly will be turned in on this day? 
+We will deliver the conceptual document with high level overview 
 
 ### Second Milestone (04-21)
-What exactly will be turned in on this day? 
+Completed code 
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-### Susan Scheme
-will write the....
+### Anand Surisetti
+will work on coding, testing
 
-### Leonard Lambda
-will work on...
+### Liuchen Ye
+will work on coding, testing
 
 ## Proposal Presentation Link
 insert your google presentation public link here, so with one click it will open up in the browser and you can present.
