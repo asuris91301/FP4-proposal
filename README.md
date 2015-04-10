@@ -23,47 +23,45 @@ Your team will have two minutes to present. Create presentation with two or thre
 
 # Project Title: Card game - higher or lower
 ### Problem Statement
-We intend to demonstrate cards library functionality
+We intend to demonstrate cards library functionality using a simplified kids cards game called war. 
 
 ### Problem Analysis
-•Data abstraction is used to manipulate the cards. 
-•Function modularity by defining sub-functions
-•GUI functionality
+•Data abstraction will used to manipulate the cards. 
+
+• games/cards racket/gui racket/unit libraries will be used for implementing functions and sub functions
+
 
 ### Data set or other source materials
 No external datasets used for this project
 
 ### Deliverable and Demonstration
-This will be an interactive card game with 2 players. Each player draws cards in turn. The player who drew a higher value card will grab all the cards in the pile. Who ever gets most cards wins the game.
+The deliverables will be code and working application. The interactive game will be demonstrated for its functionality
 
 ### Evaluation of Results
 Ability to executre the application without errors.
 
 ## Work Plan and Schedule
-Explain how you will go from proposal to finished product. Write your general plan here. 
-There are three deliverable milestones to explicitly define, below. The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
+We are exploring  games/cards, racket/gui and racket/unit libraries. We will use features combined from different card games including memory, gofish and aces.
 
-You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages, so take care in writing concrete steps for your schedule. 
-
-In this general plan, and in the deliverables below.
+Once we understand how a library procedure is implemented based on the documentation and the example game, we will implement a modified version of it in our game.
 
 ### First Milestone (04-13)
-We will deliver the conceptual document with high level overview 
+We will deliver the conceptual document with high level overview of the application.
 
 ### Second Milestone (04-21)
-Completed code 
+Completed code displaying the screen with primitive functionality of deal and drawing cards.
 
 ## Group Responsibilities
-Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
+We are a 2 member team and will have shared responsibilities for the code and documentation. We both would like to learn functions from the cards/games library and share.
 
 ### Anand Surisetti
-will work on coding, testing
+will work on coding, testing and documentation.
 
 ### Liuchen Ye
-will work on coding, testing
+will work on coding and testing.
 
 ## Proposal Presentation Link
-insert your google presentation public link here, so with one click it will open up in the browser and you can present.
+https://docs.google.com/presentation/d/1DuJZvR9CBHyPtj7ZNsOy1agd6URNvd02625h4xW4jlM/pub?start=false&loop=false&delayms=60000&slide=id.p
 
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
